@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
 copyright_name: EDDRS
 description: "My test SaRCS page"
-baseurl: "/startbootstrap-clean-blog-jekyll"
+baseurl: ""
 url: ""
 twitter_username: SBootstrap
 github_username:  davidtmiller
