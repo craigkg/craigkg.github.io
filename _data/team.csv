@@ -1,7 +1,7 @@
-name,email,data
-John,john@mycompany.com,""
-Mary,mary@mycompany.com,""
-Lisa,lisa@mycompany.com,""
-Jeff,jeff@mycompany.com,""
-Madison,madison@mycompany.com,""
-Alex,alex@mycompany.com,""
+name,email,shortname
+John,john@mycompany.com,john
+Mary,mary@mycompany.com,mary
+Lisa,lisa@mycompany.com,lisa
+Jeff,jeff@mycompany.com,jeff
+Madison,madison@mycompany.com,madison
+Alex,alex@mycompany.com,alex
