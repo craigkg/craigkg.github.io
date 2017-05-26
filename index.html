@@ -43,6 +43,14 @@ description: "A Clean Blog Theme by Start Bootstrap"
                 <td>ashley@mycompany.com</td>
                 <td></td>
             </tr>
+            {% for team_hash in site.data.team %}
+            {% assign team = team_hash[1] %}
+            <tr>
+                <td>{{team.name}}</td>
+                <td>{{team.email}}</td>
+                <td>{{team.data}}</td>
+            </tr>
+            {% endfor %}
         </tbody>
     </table>
 
